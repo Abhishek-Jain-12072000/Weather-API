@@ -6,27 +6,27 @@ Clone the repository (Windows/macOS)
 
 Create virtual environment (macOS)
 
-  virtualenv -p /usr/bin/python3.8 virtualenv
+  &emsp;&emsp;&emsp;virtualenv -p /usr/bin/python3.8 virtualenv
 
 Create virtual environment (Windows)
 
-  py -3.8 -m venv virtualenv
+  &emsp;&emsp;&emsp;py -3.8 -m venv virtualenv
 
 Activate virtual environment (macOS)
 
-  source virtualenv/bin/activate
+  &emsp;&emsp;&emsp;source virtualenv/bin/activate
 
 Activate virtual environment (Windows)
 
-  .\virtualenv\Scripts\activate
+  &emsp;&emsp;&emsp;.\virtualenv\Scripts\activate
 
 Install requirements.txt (Windows/macOS)
 
-  pip install -r requirements.txt
+  &emsp;&emsp;&emsp;pip install -r requirements.txt
 
 Run Server (Windows/macOS)
 
-  python manage.py runserver
+  &emsp;&emsp;&emsp;python manage.py runserver
   
 This will start the development server and you can access the API at http://localhost:8000/.
 
