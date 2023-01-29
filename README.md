@@ -2,7 +2,7 @@
 
 Clone the repository (Windows/macOS)
 
-  git clone https://github.com/Abhishek-Jain-12072000/Weather-API.git
+&emsp;git clone https://github.com/Abhishek-Jain-12072000/Weather-API.git
 
 Create virtual environment (macOS)
 
