@@ -1,6 +1,6 @@
 # Weather-API
 
-1. Clone the repository (Windows/macOS)
+1.1. Clone the repository (Windows/macOS)
 
 &emsp;&emsp;&emsp;git clone https://github.com/Abhishek-Jain-12072000/Weather-API.git
 
@@ -20,11 +20,11 @@
 
   &emsp;&emsp;&emsp;.\virtualenv\Scripts\activate
 
-4. Install requirements.txt (Windows/macOS)
+4.1. Install requirements.txt (Windows/macOS)
 
   &emsp;&emsp;&emsp;pip install -r requirements.txt
 
-5. Run Server (Windows/macOS)
+5.1. Run Server (Windows/macOS)
 
   &emsp;&emsp;&emsp;python manage.py runserver
   
